@@ -1,3 +1,4 @@
+# Packer file.
 {
   "variables": {
     "artifact_description": "CentOS 7.7 with kernel 5.x",
